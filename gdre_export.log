@@ -1,0 +1,35 @@
+GDRE Tools v2.4.0
+Windows 10.0.19045, Microsoft Basic Render Driver, d3d12
+Opening file: C:/Users/ProfDrOsman/Downloads/GupikDEVProjeTaslağı.apk
+Loaded 130 imported files
+Detected Engine Version: 4.5.1.stable
+Detected Bytecode Revision: 4.5.0-stable (ebc36a7)
+Extracted 267 files, no errors detected!
+Saved project config.
+
+
+********************************EXPORT REPORT********************************
+
+Totals:                                 
+Decompiled scripts:                     26
+Failed scripts:                         0
+Imported resources for export session:  130
+Successfully converted:                 130
+Lossy:                                  9
+Rewrote metadata:                       103
+Non-importable conversions:             0
+Not converted:                          0
+Failed conversions:                     0
+-------------
+
+
+
+------------------------------------------------------------------------------------
+
+Use Godot editor version 4.5.1.stable to edit the project.
+Note: the project may be using a custom version of Godot. Detection for this has not been implemented yet.
+If you find that you have many non-import errors upon opening the project 
+(i.e. scripts or shaders have many errors), use the original game's binary as the export template.
+
+*******************************************************************************
+
